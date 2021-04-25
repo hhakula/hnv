@@ -9,6 +9,6 @@ Matti Vuorinen, vuorinen@utu.fi
 
 The Mathematica notebooks and packages provided here can be used to 
 reproduce the results of a set of numerical experiments
-documented in the above mentioned paper (ArXiv).
+documented in the above mentioned paper (ETNA/ArXiv).
 
 #### Contact: Harri Hakula, Harri.Hakula@aalto.fi
